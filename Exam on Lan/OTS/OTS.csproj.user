@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard\FrmModDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\FrmStudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EssayMark\FrmEssayDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EssayMark\FrmEssayTestList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\FrmLoginModerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\FrmLoginStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageClass\FrmCreateClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageClass\FrmEditClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageClass\FrmManageClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageMark\FrmManageMark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageQuestion\AddQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageQuestion\EditQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageQuestion\ListQuestionBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageStudent\frmInsertStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageStudent\frmManageStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageStudent\frmUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageSubject\frmUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageSubject\frmInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageSubject\frmManagerSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageSubmission\FrmManageSubmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageSubmission\FrmViewSubmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageTest\frmManageTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageTest\frmStartTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageTest\TakeTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageTest\ViewResultFinish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReviewSubmission\FrmReviewSubmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudenDashBoard\StudentDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewTest\FrmCreateTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewTest\FrmViewTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
